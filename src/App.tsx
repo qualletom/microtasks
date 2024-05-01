@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import {Micro05Filter} from "./Microtasks/05Filter/Micro05Filter";
+import {Micro06Input} from "./Microtasks/06Input/Micro06Input";
 
 function App() {
   return (
     <div className="App">
-      <Micro05Filter />
+      <Micro06Input  />
     </div>
   );
 }
